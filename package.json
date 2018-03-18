@@ -1,0 +1,15 @@
+{
+  "name": "meanskeleton",
+  "version": "1.0.0",
+  "description": "Template for a generic MEAN Stack Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Vikas Sharma\"",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+  }
+}
